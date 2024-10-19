@@ -8,3 +8,10 @@ tools/kickassembler-5.16-65ce02.i.jar
 tools/libusb-1.0.dll
 tools/m65.exe
 .vscode/settings.json
+.DS_Store
+example/16colortilemode.dbg
+example/16colortilemode.prg
+example/16colortilemode.sym
+example/16colortilemode.vs
+example/ByteDump.txt
+example/data/grid.map
